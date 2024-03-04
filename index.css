@@ -1,0 +1,92 @@
+.nav-link:hover{
+    border-bottom: 2px solid rgb(85, 167, 173);
+}
+.hi{
+    color: white;
+    margin-left: 100px;
+    margin-top: 150px;
+    font-size: 50px;
+    font-style:italic;
+}
+.img1{
+    float: right;
+    margin-top: -140px;
+    height: 400px;
+    width: 500px;
+    margin-right: 60px;
+    border-radius: 8px;
+}
+.icons{
+    margin-top: 250px;
+    margin-left: 140px;
+}
+.about{
+    color: white;
+    margin-left: 600px;
+}
+.me{
+    height: 300px;
+    width: 300px;
+    margin-left: 100px;
+    border-radius: 50%;
+    border: 5px solid rgb(21, 172, 183);
+}
+.data{
+    margin-left: 500px;
+    margin-top: -270px;
+    font-size: 24px;
+}
+.skills{
+    width: 500px;
+    margin: 60px auto;
+    color:white;
+    padding: 20px;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.30), 0 10px 10px rgba(0, 0, 0, 0.30);
+}
+.bar{
+    background-color: rgb(50, 50, 52);
+    display: block;
+    border: 1px solid rgb(0, 0, 0, 0.30);
+    height: 20px;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.30), 0 10px 10px rgba(0, 0, 0, 0.30);
+    transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+.bar span{
+    height: 20px;
+    float: left;
+    background:linear-gradient(113deg,rgb(16, 105, 99)0%,rgb(103, 225, 217)100%);
+}
+.bar:hover{
+    box-shadow: 0 15px 20px rgba(40, 39, 39, 0.2), 0 10px 10px rgba(42, 40, 40, 0.3);
+
+}
+.HTML{
+    width: 95%;
+    animation:HTML 4s ;
+}
+.CSS{
+    width: 80%;
+    animation:CSS 4s ;
+}
+.Javascript{
+    width: 75%;
+    animation:Javascript 4s ;
+}
+.C{
+    width: 90%;
+    animation:C 4s ;
+}
+.c{
+    width: 50%;
+    animation:c 4s ;
+}
+.Java{
+    width: 60%;
+    animation:Java 4s ;
+}
+.contact{
+    color: white;
+    margin-left:300px;
+}
